@@ -10954,4 +10954,4 @@ export default
         }
       ]
     }
-  ]
+  ];
